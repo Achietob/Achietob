@@ -18,7 +18,7 @@ I'm Farinde Tobiloba Rufus, a passionate Brand Designer from Akure. Welcome to m
 
 ## ✉️ Contact Me
 
-Feel free to reach out to me through [email]farindetobiloba33@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/Farinde Tobiloba/).
+Feel free to reach out to me through [email]farindetobiloba33@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/FarindeTobiloba/).
 
 ## 📈 GitHub Stats
 
