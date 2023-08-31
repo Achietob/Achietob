@@ -3,9 +3,7 @@ Here's a quick summary about me:
 I'm Farinde Tobiloba Rufus, a passionate Brand Designer from Akure. Welcome to my GitHub profile! 😄
 
 ## 🔧 Technologies & Tools
-
-![Tech1](https://img.shields.io/badge/-Tech1-000000?style=flat&logo=tech1&logoColor=white)
-![Tech2](https://img.shields.io/badge/-Tech2-000000?style=flat&logo=tech2&logoColor=white)
+https://www.adobe.com/ng/products/illustrator/campaign/pricing.html?mv=search&mv2=paidsearch&sdid=GMCWY69B&ef_id=:G:s&s_kwcid=AL!3085!3!!e!!o!!adobe%20illustrator!402368040!1266638104137718&msclkid=aaada69f553e1b390d2fc26e599bc3b3
 <!-- Add more technologies and tools as needed -->
 
 ## 🌱 I'm Currently Learning
