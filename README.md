@@ -1,5 +1,5 @@
 # Hi there! 👋
-
+Here's a quick summary about me:
 I'm Farinde Tobiloba Rufus, a passionate Brand Designer from Akure. Welcome to my GitHub profile! 😄
 
 ## 🔧 Technologies & Tools
@@ -18,11 +18,14 @@ I'm Farinde Tobiloba Rufus, a passionate Brand Designer from Akure. Welcome to m
 
 ## ✉️ Contact Me
 
-Feel free to reach out to me through [email]farindetobiloba33@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/FarindeTobiloba/).
+Feel free to reach out to me through [email]farindetobiloba33@gmail.com or connect with me on # Hello there; welcome 👋🏾
+😊 Pronouns: He/him
+- 📫 You can view my resume and contact me by emailing farindetobiloba33@gmail.com.
+https://www.linkedin.com/in/farinde-tobiloba-a0429b271/?originalSubdomain=ng) [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/achietob https://t.me/tobilobafarinde
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+achietob](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
 ## 🌐 My Website
 
