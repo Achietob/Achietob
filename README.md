@@ -1,9 +1,9 @@
 # Hi there! 👋
 Here's a quick summary about me:
-I'm Farinde Tobiloba Rufus, a passionate Brand Designer from Akure. Welcome to my GitHub profile! 😄
+I'm Farinde Tobiloba Rufus, a passionate Email marketing expert from Lagos. Welcome to my GitHub profile! 😄
 
 ## 🔧 Technologies & Tools
-https://www.adobe.com/ng/products/illustrator/campaign/pricing.html?mv=search&mv2=paidsearch&sdid=GMCWY69B&ef_id=:G:s&s_kwcid=AL!3085!3!!e!!o!!adobe%20illustrator!402368040!1266638104137718&msclkid=aaada69f553e1b390d2fc26e599bc3b3
+https://Klaviyo.com/products/Hubspot/campaign/pricing.html?mv=search&mv2=paidsearch&sdid=GMCWY69B&ef_id=:G:s&s_kwcid=AL!3085!3!!e!!o!!Klaviyo%20crm!402368040!1266638104137718&msclkid=aaada69f553e1b390d2fc26e599bc3b3
 <!-- Add more technologies and tools as needed -->
 
 ## 🌱 I'm Currently Learning
@@ -12,7 +12,7 @@ https://www.adobe.com/ng/products/illustrator/campaign/pricing.html?mv=search&mv
 
 ## 🚀 Projects
 
-- [Project 1](https://github.com/Achietob/project1) - a brand for a graphicd=s desiner 
+- [Project 1](https://github.com/Achietob/project1) - a digital marketing expert - email marketing and email automation
 
 ## ✉️ Contact Me
 
@@ -23,8 +23,8 @@ https://www.linkedin.com/in/farinde-tobiloba-a0429b271/?originalSubdomain=ng) [!
 
 ## 📈 GitHub Stats
 
-achietob](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+achietob](https://github-readme-stats.vercel.app/api?achietob=Achietob&show_icons=true&theme=dark)
 
 ## 🌐 My Website
 
-Check out my personal website: [https://www.yourwebsite.com](https://www.yourwebsite.com)
+Check out my personal website: https://revolutionary-fdd8.mailchimpsites.com/
